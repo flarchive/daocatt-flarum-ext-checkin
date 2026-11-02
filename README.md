@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of gtdxyz/flarum-ext-checkin.** Not for installation: use [Packagist](https://packagist.org/packages/gtdxyz/flarum-ext-checkin) or the [upstream repository](https://github.com/daocatt/flarum-ext-checkin).
 
-**0** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^1.8`
+**6** versions archived · Latest: [`1.0.5`](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.5) · License: `MIT` · Flarum: `^1.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2024-03-10 | `^1.8` | [Browse](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0) |
+| `1.0.1` | 2024-03-10 | `^1.8` | [Browse](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.1) |
+| `1.0.2` | 2024-03-10 | `^1.8` | [Browse](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.2) |
+| `1.0.3` | 2024-03-10 | `^1.8` | [Browse](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.3) |
+| `1.0.4` | 2024-03-13 | `^1.8` | [Browse](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.4) |
+| `1.0.5` | 2024-05-02 | `^1.8` | [Browse](https://github.com/flarchive/daocatt-flarum-ext-checkin/tree/archive/v1.0.5) |
 
 Catalog entry: [packages/daocatt-flarum-ext-checkin.json](https://github.com/flarchive/archive-index/blob/main/packages/daocatt-flarum-ext-checkin.json)
 
